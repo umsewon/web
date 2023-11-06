@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'KimjungchulScript-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/KimjungchulScript-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    }
+    *{
+        margin: 0;
+        
+    }
+    .line{
+        border-top: 1px solid rgb(24, 24, 24);
+        width: 1100px;
+        margin: 0 auto;
+        margin-top: 55px;
+        margin-bottom: 70px;
+    }
+    .line2{
+        border-top: 1px solid rgb(24, 24, 24);
+        width: 350px;
+        margin-top: 12.2px;
+    }
+    .line3{
+        border-top: 1px solid rgb(24, 24, 24);
+        width: 350px;
+        margin-top: 47px;
+        margin-bottom: 169px;
+    }
+    .line4{
+        width: 350px;
+        border-top: 1px solid rgb(24, 24, 24);
+        
+        
+    }
+    
+    .warp{
+       width:1100px;
+       margin-top: 30px;
+       margin: 0 auto;
+       height: 3800px;
+    }
+    .warp2{
+        width:1100px;
+        margin: 0 auto;
+    }
+    .border01{
+        text-align: center;
+        width: 454px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+        
+    }
+    .box1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .img00{
+        width: 622px;
+        height: 830px;
+        margin-top: 30px;
+        
+    }
+    .maintext01{
+        color: #2b2b2b;
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 30px;
+        letter-spacing: -2.2px;
+    }
+    .maintext02{
+        font-size:70px;
+        color: rgb(91, 1, 1);
+        font-family: 'KimjungchulScript-Bold';
+        letter-spacing: -2.2px;
+    }
+    .maintext03{
+        font-size: 52px;
+        color: rgb(91, 1, 1);
+        font-family: 'KimjungchulScript-Bold';
+    }
+    .maintext04{
+        
+        padding-left: 61px ;
+        
+        
+
+    }    
+    .img01{
+        width: 1100px;
+        height: 556px;
+        margin-top: 96px;
+    }
+    .img02{
+        width: 1100px;
+        height: 628px;
+    }
+    .letter{
+        margin-bottom: 200px;
+        font-size: 24px;
+        font-family: 'Noto Sans KR', sans-serif;
+        text-align: center;
+    }
+    .letter1{
+        width: 1100px;
+        margin: 0 auto;
+        font-size: 23px;
+        padding-top: 40px;
+        font-family: 'Noto Sans KR', sans-serif;
+    }
+   
+    
+    .letter2{   
+        width: 367px; 
+        margin-top: 112px;
+        float: left;
+        font-size: 24px;
+        font-family: 'Noto Sans KR', sans-serif;
+
+    }
+      
+    .letter3{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 24px;
+        text-align: center;
+    }
+    .letter4{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 21px;
+        margin-top: 45px;
+        height: 324px;
+        width: 154px;
+        text-align: center;
+        
+    } 
+    .box4{
+        margin-top: 70px;
+        padding-bottom: 80px;      
+        height: 1202px;
+        margin:0 auto;
+       
+        
+    }
+    .letter6 .img03{
+        background-color:#CDFFA6;
+    }
+    
+    .img03{ 
+        margin-top: 100px;  
+        
+        
+    }
+    
+    .img04{
+       width: 612px;
+       height: 900px;
+       float: right;
+       margin-top: 112px;
+    }
+    .box5{
+        height: 835;
+    }
+
+    .img05{
+        width: 1100px;
+        height: 618px;
+    }
+    .box6{
+        margin-bottom: 213px;
+    }
+    .imglogo{
+        width: 139px;
+        height: 294px;
+        margin-top: 45px;
+        padding-right: 80px;
+        padding-left: 44px;
+    }
+    .box7{
+        margin: 0 auto;
+        width: 1100px;
+    }
+    .border2{
+        width: 459px;
+        height: 382px;
+        display: flex;
+        margin: 0 auto;
+        margin-bottom: 676px;
+        padding-top:340px;
+        padding-bottom: 340px;
+        position: relative;
+        
+    } 
+    .border2 .img{
+        display: block;
+        position: absolute;
+    }
+    .border3{
+        background-color:#ffbb01;
+        height: 2600px;  
+        
+    }
+    .imgline{
+        width: 459px;
+        height: 14px;
+    }
+
+    video{
+        display: block;
+        
+        width: 100%;
+    }
+    span{
+        font-weight: 900;
+    }
+    
